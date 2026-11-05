@@ -1,0 +1,18 @@
+{
+  "name": "Moza Studio — Creative Workspace",
+  "short_name": "Moza Studio",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#CC8593",
+  "icons": [
+    {
+      "src": "./assets/flower.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
